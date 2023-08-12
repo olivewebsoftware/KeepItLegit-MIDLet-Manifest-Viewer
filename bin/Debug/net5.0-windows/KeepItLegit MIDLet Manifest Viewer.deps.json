@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KeepItLegit MIDLet Manifest Viewer/1.0.0": {
+        "runtime": {
+          "KeepItLegit MIDLet Manifest Viewer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeepItLegit MIDLet Manifest Viewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\bin\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.exe
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\bin\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.deps.json
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\bin\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.runtimeconfig.json
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\bin\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.runtimeconfig.dev.json
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\bin\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.dll
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\bin\Debug\net5.0-windows\ref\KeepItLegit MIDLet Manifest Viewer.dll
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\bin\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.pdb
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.vbproj.AssemblyReference.cache
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit_MIDLet_Manifest_Viewer.Form1.resources
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.vbproj.GenerateResource.cache
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.AssemblyInfoInputs.cache
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.AssemblyInfo.vb
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.dll
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\ref\KeepItLegit MIDLet Manifest Viewer.dll
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.pdb
+C:\Users\pizza\source\repos\KeepItLegit MIDLet Manifest Viewer\obj\Debug\net5.0-windows\KeepItLegit MIDLet Manifest Viewer.genruntimeconfig.cache
